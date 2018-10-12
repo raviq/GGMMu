@@ -17,7 +17,6 @@ Utility function fitting using Generalized Gaussian Mixture Models (GGMM)
 python bell.py | cubic.py
 ```
 
-
 ## Citation
 
 > Hadfi, Rafik, and Takayuki Ito. "Approximating Constraint-Based Utility Spaces Using Generalized Gaussian Mixture Models." International Conference on Principles and Practice of Multi-Agent Systems. Springer, Cham, 2014.
