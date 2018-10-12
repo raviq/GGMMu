@@ -1,7 +1,7 @@
 
 # GGMM 
 
-Utility fitting using Generalized Gaussian Mixture Models (GGMM)
+Utility function fitting using Generalized Gaussian Mixture Models (GGMM)
 
 
 
