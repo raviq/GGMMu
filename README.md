@@ -4,6 +4,10 @@
 Utility function fitting using Generalized Gaussian Mixture Models (GGMM)
 
 
+<p align="center">
+	<img src="https://github.com/raviq/GGMMu/blob/master/resources/eg.png" width="600">
+</p>
+
 
 ## Prerequisites
 - Python 3
