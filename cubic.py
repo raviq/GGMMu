@@ -1,16 +1,3 @@
-'''
-
-	- make the cubes generation modular using one function that can be called several times
-		like a function returnig a class?
-	- generate many cubes, and generate their corresponding utility functions
-	- load the cubes from the hug xml files...
-	- take the bell representation of ivan ? or mine ?
-	- continue the work on cone shaped constraints., even as part of the examples
-	- for the dimensions > 3 use scipy.spacial for the volume computation...
-	
-
-'''
-
 import logging	
 import numpy as np
 import matplotlib
