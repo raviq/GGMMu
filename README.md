@@ -5,7 +5,7 @@ Utility function fitting using Generalized Gaussian Mixture Models (GGMM)
 
 
 <p align="center">
-	<img src="https://github.com/raviq/GGMMu/blob/master/figures/eg.png" width="600">
+	<img src="https://github.com/raviq/GGMMu/blob/master/figures/eg.png" width="400">
 </p>
 
 
